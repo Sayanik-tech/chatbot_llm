@@ -1,2 +1,2 @@
 # chatbot_llm
-Creating a simple chatbot with Opensource LLM
+Creating a simple chatbot with Opensource LLM (LLAMA2)
